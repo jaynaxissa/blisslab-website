@@ -1,0 +1,50 @@
+.header {
+    color: #39302A;
+    display: flex;
+    height: 80px;
+    position: relative;
+    align-items: center;
+  }
+
+  .header-left{
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    display: flex;
+  }
+
+  .category-title{
+    margin: 30px;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+.header-right{
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+
+.buy-button{
+  margin-left: 20px;
+  width: 90px;
+  height: 35px;
+  background-color: #39302A;
+  color: whitesmoke;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+}
+
+.try-button{
+  position: relative;
+  width: 120px;
+  height: 35px;
+  border-radius: 20px;
+  border: 1.5px solid #39302A;
+  background-color: #EAEEF5;
+  cursor: pointer;
+}

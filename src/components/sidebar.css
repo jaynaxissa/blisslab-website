@@ -1,0 +1,43 @@
+.sidebar{
+    flex: 1;
+    height: 100vh;
+    max-width: 8em;
+    border-right: 0.5px solid rgb(230, 227, 227);
+    background-color: #E1E1E1;
+    color: #39302A;
+    margin-right: 3px;
+}
+
+.logo{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 30px;
+}
+
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.social-bottom{
+    margin-top: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+}
+
+.social{
+    margin: 10px;
+    color: black;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.social-link{
+    text-decoration: none;
+}
