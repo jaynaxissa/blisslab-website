@@ -2,23 +2,19 @@
     flex: 1;
     height: 100vh;
     max-width: 8em;
+    min-width: 5em;
     border-right: 0.5px solid rgb(230, 227, 227);
     background-color: #E1E1E1;
     color: #39302A;
     margin-right: 3px;
 }
 
-.logo{
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 100;
-    margin: 30px;
-}
 
-.top{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+.logo-pic{
+    width: 50px;
+    margin-top: 2em;
+    margin-left: 1em;
 }
 
 

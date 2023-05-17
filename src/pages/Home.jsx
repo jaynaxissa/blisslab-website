@@ -13,9 +13,11 @@ function Home() {
           <div className="middle-left">
             <div className="mental-health">Mental Health</div>
 
-            <div className="slogan">TELL ME</div>
-            <div className="slogan">HOW YOU</div>
-            <div className="slogan">REALLY FEEL</div>
+            <div className="all-slogans">
+              <div className="slogan">TELL ME</div>
+              <div className="slogan">HOW YOU</div>
+              <div className="slogan">REALLY FEEL</div>
+            </div>
 
             <div className="description">
               Taking care of our mental health is just as
@@ -30,7 +32,9 @@ function Home() {
               help you improve your mental health and wellbeing.
             </div>
           </div>
-          <div className="middle-right"></div>
+          <div className="middle-right">
+            <img className="circle" src="/images/circle-abstract.png" alt="circle" />
+          </div>
         </div>
       </div>
     </div>

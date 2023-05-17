@@ -7,7 +7,11 @@ const Sidebar = () => {
     <div className="sidebar">
       <div className="top">
         <Link to="/" className="logo">
-          <span>BlissLab</span>
+          <img
+            className="logo-pic"
+            src="/images/blisslab-logo.png"
+            alt="logo"
+          />
         </Link>
       </div>
       <div className="social-bottom">
