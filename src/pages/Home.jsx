@@ -14,26 +14,30 @@ function Home() {
             <div className="mental-health">Mental Health</div>
 
             <div className="all-slogans">
-              <div className="slogan">TELL ME</div>
-              <div className="slogan">HOW YOU</div>
-              <div className="slogan">REALLY FEEL</div>
+              <div className="slogan">EMPOWER,</div>
+              <div className="slogan">YOUR</div>
+              <div className="slogan">INNER STRENGTH</div>
             </div>
 
             <div className="description">
-              Taking care of our mental health is just as
+              Discover a transformative journey where mental and physical
             </div>
             <div className="description">
-              important as taking care of our physical health
+              health intertwine, offering you an empowering sanctuary.
             </div>
             <div className="description">
-              Here you can find resources, tips and support to
+              Immerse yourself in a wealth of resources, valuable tips, and{" "}
             </div>
             <div className="description">
-              help you improve your mental health and wellbeing.
+              unwavering support, nurturing your mental wellbeing with care.{" "}
             </div>
           </div>
           <div className="middle-right">
-            <img className="circle" src="/images/circle-abstract.png" alt="circle" />
+            <img
+              className="circle"
+              src="/images/circle-abstract.png"
+              alt="circle"
+            />
           </div>
         </div>
       </div>

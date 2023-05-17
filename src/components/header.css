@@ -48,4 +48,5 @@
   border: 1.5px solid #39302A;
   background-color: #EAEEF5;
   cursor: pointer;
+  z-index: 1;
 }
